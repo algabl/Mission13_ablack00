@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Home from './Home';
 import Podcasts from './Podcasts';
-import MovieCollection from './MovieCollection';
+import MovieCollection from './movies/MovieCollection';
 import { Routes, Route, Link } from 'react-router-dom';
 import NavBar from './NavBar';
 import Footer from './Footer';
